@@ -1,0 +1,14 @@
+body {
+    font-family: fantasy;
+    background-image: linear-gradient(aquamarine,blue);
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+li {
+    font-size: 25px;
+    color: firebrick;
+}Q
